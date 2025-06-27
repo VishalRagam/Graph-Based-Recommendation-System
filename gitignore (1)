@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Data & Artifacts
+*.pt
+*.pkl
+*.h5
+*.log
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.ipynb_checkpoints/
